@@ -6,6 +6,7 @@ const Header = () => {
         <section id="hero">
             <div className="container max-w-6xl mx-auto px-6 py-12">
                 <Navbar />
+                <Banner />
             </div>
         </section>
     )
