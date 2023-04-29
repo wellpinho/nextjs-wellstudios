@@ -1,7 +1,7 @@
 import './globals.css'
-import { Inter } from 'next/font/google'
+import { Alata } from 'next/font/google'
 
-const inter = Inter({ subsets: ['latin'] })
+const inter = Alata({ subsets: ['latin'], weight: '400' })
 
 export const metadata = {
   title: 'Wellpinho Studios',
