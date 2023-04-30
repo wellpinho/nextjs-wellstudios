@@ -4,7 +4,7 @@ import { useState } from "react"
 
 const Navbar = () => {
     const [value, setValue] = useState('')
-    const [open, setOpen] = useState('')
+    const [open, setOpen] = useState('hidden')
 
     function handleMenu() {
         if (value !== 'open') {
