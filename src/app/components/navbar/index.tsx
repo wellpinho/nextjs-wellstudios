@@ -6,35 +6,35 @@ const Navbar = () => {
             <div className="hidden h-10 md:flex md:space-x-8">
                 <div className="group">
                     <a href="#">About</a>
-                    <div className="mx-2 group-hover:border-b group-hover:border-blue-50">
+                    <div className="link">
 
                     </div>
                 </div>
 
                 <div className="group">
                     <a href="#">Creers</a>
-                    <div className="mx-2 group-hover:border-b group-hover:border-blue-50">
+                    <div className="link">
                         
                     </div>
                 </div>
 
                 <div className="group">
                     <a href="#">Events</a>
-                    <div className="mx-2 group-hover:border-b group-hover:border-blue-50">
+                    <div className="link">
                         
                     </div>
                 </div>
 
                 <div className="group">
                     <a href="#">Produtcts</a>
-                    <div className="mx-2 group-hover:border-b group-hover:border-blue-50">
+                    <div className="link">
                         
                     </div>
                 </div>
 
                 <div className="group">
                     <a href="#">Support</a>
-                    <div className="mx-2 group-hover:border-b group-hover:border-blue-50">
+                    <div className="link">
                         
                     </div>
                 </div>

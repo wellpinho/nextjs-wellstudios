@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+.link {
+    @apply mx-2 group-hover:border-b group-hover:border-blue-50
+}
+
 #hero {
     background-image: url('/images/desktop/image-hero.jpg');
     background-repeat: no-repeat;
